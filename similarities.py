@@ -1,3 +1,4 @@
+#practical no - 02
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import numpy as np
