@@ -1,3 +1,4 @@
+#practical no - 03
 from operator import indexOf
 
 
