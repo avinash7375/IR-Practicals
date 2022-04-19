@@ -1,3 +1,4 @@
+#practical no - 05
 from html.parser import HTMLParser
 from urllib.request import urlopen
 from urllib import parse
