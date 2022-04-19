@@ -1,3 +1,4 @@
+#practical no - 01
 a=int(input("enter any number"))
 b=int(input("enter any number"))
 c=0
